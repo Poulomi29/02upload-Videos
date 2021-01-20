@@ -6,7 +6,7 @@ cloudinary.uploader
     resource_type: 'video', 
     type: "upload",
     public_id: 'Basic_Tee', 
-    folder: "Cloudinary-Partner-Training/eCommerce-videos",     
+    folder: "Cloudinary-Partner-Training/eCommerce-videos",     // added this
     tags:["position_1","whiteTee","pwg01"],       
     
     overwrite:"true"    
